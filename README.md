@@ -1,4 +1,9 @@
+[![Linkedin](https://raster.shields.io/badge/linked-in-blue)](https://www.linkedin.com/in/denis-tingajkin-192569165/)
+
 ### Hi there 👋
+
+🔭 I’m currently working on https://github.com/networkservicemesh
+
 
 <!--
 **denis-tingajkin/denis-tingajkin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
