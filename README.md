@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🔭 I’m currently working on https://github.com/networkservicemesh 
+🔭 I’m currently working with https://github.com/networkservicemesh 
 
 ### Social media
 
