@@ -7,7 +7,3 @@ I’m currently working with <img src="https://d33wubrfki0l68.cloudfront.net/6b5
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=denis-tingaikin)](https://github.com/anuraghazra/github-readme-stats)
 
-## Contacts
-<img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/Color/LinkedIN.png" width="16" height="16" title="id">   https://www.linkedin.com/in/denis-tingaikin \
-<img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/Color/Outlook.png" width="16" height="16" title="email"> denis.tingaikin@outlook.com 
-
